@@ -11,7 +11,7 @@ title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "Lingyun Wang"
 description              : &description "Undergraduate student at Soochow University"
-url                      : https://lingyun-wang.github.io/
+url                      : https://lingyun-wang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lingyun-wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lingyun Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate student at Soochow University, interested in Optical Coherence Tomography, Super-resolution, and Deep Learning"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Lingyun-Wang"
+  github           : "Lingyun-Wang"
   google_plus      :
   keybase          :
   instagram        :
