@@ -3,14 +3,18 @@ main:
   - title: "News"
     url: /news/
     
+    
   - title: "Publications"
     url: /publications/
+    
     
   - title: "Projects"
     url: /projects/
     
+    
   - title: "Awards"
     url: /awards/
+    
     
   - title: "CV"
     url: /cv/
