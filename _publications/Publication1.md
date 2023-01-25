@@ -14,5 +14,3 @@ Optical coherence tomography angiography (OCTA), as a functional extension of op
 ![Pub1Image1](http://Lingyun-Wang.github.io/images/Pub1Image1.png)
 
 [Download paper here](http://Lingyun-Wang.github.io/files/paper1.pdf)
-
-Recommended citation: Wang L, Chen Z, Zhu Z, et al. Compressive‐sensing swept‐source optical coherence tomography angiography with reduced noise\[J]. *Journal of Biophotonics*, 2022: e202200087.
