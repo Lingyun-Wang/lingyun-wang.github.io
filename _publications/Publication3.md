@@ -1,5 +1,5 @@
 ---
-title: "A review of in vivo cellular imaging for the retina"
+title: "A review of *in vivo* cellular imaging for the retina"
 collection: publications
 permalink: /publications/Publication3
 excerpt: 'This paper is under revision (not submited).'
