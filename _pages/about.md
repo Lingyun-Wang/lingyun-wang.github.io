@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About me"
+header:
+  image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
 excerpt: "About me"
 author_profile: true
 redirect_from: 
