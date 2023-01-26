@@ -83,7 +83,7 @@ analytics:
 # Header
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: http://Lingyun-Wang.github.io/images/fig1.jpg
+  overlay_image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
