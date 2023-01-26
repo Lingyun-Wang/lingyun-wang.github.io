@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+---
+
+{% if site.newsmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/newsmap.html">News</a></p>
+
+{% endif %}
+
+{% for post in site.news reversed %}
+  {% include archive-single-news.html %}
+{% endfor %}
