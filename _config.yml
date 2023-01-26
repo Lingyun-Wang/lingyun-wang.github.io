@@ -80,10 +80,6 @@ analytics:
   google:
     tracking_id          :
 
-# Header
-header:
-  image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
-
 # Site Author
 author:
   name             : "Lingyun Wang"
