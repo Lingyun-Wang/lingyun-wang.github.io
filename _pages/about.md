@@ -2,9 +2,9 @@
 permalink: /
 title: "About me"
 header:
-  overlay_image: http://Lingyun-Wang.github.io/images/OCTRetina.jpg
-  caption: "Pursue Truth Rather Than Correctness"
-excerpt: "About me"
+  overlay_image: http://Lingyun-Wang.github.io/images/OCTRetina2.jpg
+  caption: "Optical Coherence Tomography"
+excerpt: "test"
 author_profile: true
 redirect_from: 
   - /about/
