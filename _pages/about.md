@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About me"
+title: "Autobiography"
 header:
   overlay_image: http://Lingyun-Wang.github.io/images/OCTRetina2.jpg
   caption: "Optical Coherence Tomography"
-excerpt: "test"
+excerpt: "In pursuit of truth"
 author_profile: true
 redirect_from: 
   - /about/
