@@ -2,7 +2,8 @@
 permalink: /
 title: "About me"
 header:
-  image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
+  overlay_image: http://Lingyun-Wang.github.io/images/OCTRetina.jpg
+  caption: "Pursue Truth Rather Than Correctness"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
