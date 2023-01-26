@@ -2,7 +2,7 @@
 title: "A paper is published in Journal of Biophotonics!"
 collection: News
 type: "News"
-permalink: /news/test
+permalink: /news/news1
 venue: "Compressive‐sensing swept‐source optical coherence tomography angiography with reduced noise, Journal of Biophotonics"
 date: 2022-04-29
 location: "Research Article"
