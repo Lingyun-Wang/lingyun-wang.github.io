@@ -8,30 +8,30 @@ author_profile: true
 {% include base_path %}
 
 Education
-======
+-----
 * B.S. in Telecommunication Engineering, Soochow University, 2019-2023 (expected)
 
 Work experience
-======
+-----
 * Summer 2021 - present: Research Assistant
   * OIIT Lab, Soochow University
   * Duties included: Conducting researches
   * Supervisor: Prof. Jianhua Mo
   
 Skills
-======
+-----
 * Master the writing skills of papers
 * Proficient in Matlab and Python language (Signal Processing and Deep Learning)
 * Good at 2D / 3D computer graphics such as SolidWorks, AutoCAD
 
 Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Honor & Awards
-======
+-----
 * Soochow University Outstanding Learning Award
 * Grand Prize of Innovation and Entrepreneurship of Soochow University
 * The third prize in Chinese National University Students’ Opt-Sci-Tech Competition
