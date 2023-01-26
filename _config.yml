@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Page"
+title                    : "Lingyun's Academic Page"
 title_separator          : "-"
 name                     : &name "Lingyun Wang"
 description              : &description "Undergraduate student at Soochow University"
@@ -81,13 +81,8 @@ analytics:
     tracking_id          :
 
 # Header
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+  image: http://Lingyun-Wang.github.io/assets/images/fig1.jpg
 
 # Site Author
 author:
