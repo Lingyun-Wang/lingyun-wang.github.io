@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Autobiography"
+title: "Autobiography"
 header:
   overlay_image: http://Lingyun-Wang.github.io/images/OCTRetina2.jpg
   caption: "Optical Coherence Tomography"
