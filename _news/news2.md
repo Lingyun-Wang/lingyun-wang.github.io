@@ -3,7 +3,7 @@ title: "A paper is published in Lasers in Surgery and Medicine!"
 collection: News
 type: "Research Article"
 permalink: /news/news2
-venue: "Optical coherence tomography for *in vivo* longitudinal monitoring of artificial dermal scaffold, Lasers in Surgery and Medicine"
+venue: "Optical coherence tomography for in vivo longitudinal monitoring of artificial dermal scaffold, Lasers in Surgery and Medicine"
 date: 2023-02-19
 location: "JCR Q2"
 ---
