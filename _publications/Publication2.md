@@ -9,7 +9,7 @@ Conclusion. Overall, it can be concluded that OCT has a good potential to monito
 date: 2023-2-19
 venue: 'Lasers in Surgery and Medicine'
 paperurl: ''
-citation: 'Chen Z, Cheng Q, Wang L, Mo Y, Li K, Mo J. Optical coherence tomography for in vivo longitudinal monitoring of artificial dermal scaffold. Lasers Surg Med. 2023;1–11. https://doi.org/10.1002/lsm.23645'
+citation: 'Chen, Z, Cheng, Q, Wang, L, Mo, Y, Li, K, Mo, J. Optical coherence tomography for in vivo longitudinal monitoring of artificial dermal scaffold. Lasers Surg Med. 2023; 1– 11. https://doi.org/10.1002/lsm.23645'
 ---
 
 **Abstract**  
