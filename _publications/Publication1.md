@@ -6,7 +6,7 @@ excerpt: 'Optical coherence tomography angiography (OCTA), as a functional exten
 date: 2022-04-29
 venue: 'Journal of Biophotonics'
 paperurl: ''
-citation: 'Wang L, Chen Z, Zhu Z, et al. Compressive‐sensing swept‐source optical coherence tomography angiography with reduced noise[J]. Journal of Biophotonics, 2022: e202200087.'
+citation: 'Wang, L., Chen, Z., Zhu, Z., Yu, X., Mo, J., Compressive-sensing swept-source optical coherence tomography angiography with reduced noise. J. Biophotonics 2022, 15(8), e202200087. https://doi.org/10.1002/jbio.202200087'
 ---
 
 **Abstract**  
