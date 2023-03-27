@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-* Soochow University Outstanding Learning Award
+* Outstanding Undergraduate Student of Soochow University
 * Grand Prize of Innovation and Entrepreneurship of Soochow University
-* The third prize in Chinese National University Students’ Opt-Sci-Tech Competition
+* Outstanding Study Award of Soochow University
+* The third prize in Chinese National University Students' Opt-Sci-Tech Competition
 * The first prize in the Jiangsu Division of the Chinese National Mathematical Competition for College Students
 * Honour Award of American College Students Mathematical Contest in Modeling
 * Second Prize of RIGOL Cup Electronic Design Competition
