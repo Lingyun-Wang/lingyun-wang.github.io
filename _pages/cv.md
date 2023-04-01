@@ -40,5 +40,3 @@ Honor & Awards
 * Second Prize of RIGOL Cup Electronic Design Competition
 * Second Prize of Blue Bridge Cup MCU Programming Contest
 
-[Read more about CURRICULUM VITAE](https://lingyun-wang.github.io/files/CV.pdf)
-
