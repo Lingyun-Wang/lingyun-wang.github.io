@@ -32,6 +32,7 @@ Publications
 
 Honor & Awards
 -----
+* Excellent Graduate of Soochow University
 * Soochow University Outstanding Learning Award
 * Grand Prize of Innovation and Entrepreneurship of Soochow University
 * The third prize in Chinese National University Students’ Opt-Sci-Tech Competition
