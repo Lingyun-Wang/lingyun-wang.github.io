@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Outstanding Undergraduate Student of Soochow University
+* Excellent Graduate of Soochow University
 * Grand Prize of Innovation and Entrepreneurship of Soochow University
 * Outstanding Study Award of Soochow University
 * The third prize in Chinese National University Students' Opt-Sci-Tech Competition
