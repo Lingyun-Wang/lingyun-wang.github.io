@@ -9,19 +9,20 @@ author_profile: true
 
 Education
 -----
-* B.S. in Telecommunication Engineering, Soochow University, 2019-2023 (expected)
+* B.S. in Telecommunication Engineering, Soochow University, 2019-2023
+* PhD in Biomedical Engineering, University of Pittsburgh & UPMC, 2023-present
 
 Work experience
 -----
-* Summer 2021 - present: Research Assistant
+* Summer 2021 - 2023: Research Assistant
   * OIIT Lab, Soochow University
   * Duties included: Conducting researches
   * Supervisor: Prof. Jianhua Mo
   
 Skills
 -----
-* Master the writing skills of papers
-* Proficient in Matlab and Python language (Signal Processing and Deep Learning)
+* Pytorch (Deep Learning)
+* Proficient in Matlab (Signal Processing)
 * Good at 2D / 3D computer graphics such as SolidWorks, AutoCAD
 
 Publications
