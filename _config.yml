@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lingyun's Academic Page"
 title_separator          : "-"
 name                     : &name "Lingyun Wang"
-description              : &description "Undergraduate student at Soochow University"
+description              : &description "PiLab PhD Student Lingyun Wang"
 url                      : https://lingyun-wang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lingyun-wang.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Lingyun Wang"
   avatar           : "linkedin_600.jpg"
-  bio              : "Undergraduate student at Soochow University, incoming PhD student at the University of Pittsburgh, interested in Optical Coherence Tomography and Signal Processing"
+  bio              : "PhD student at the University of Pittsburgh BME & UPMC, interested in Optical Coherence Tomography and Signal Processing"
   location         : "Suzhou, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=V6S2RtUAAAAJ"
