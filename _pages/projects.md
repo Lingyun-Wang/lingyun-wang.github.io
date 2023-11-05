@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 **CVSR-Net: Axial super-resolution OCT via complex-valued network**  
 Axial resolution is important for OCT as a higher axial resolution can reveal more detialed structures, thus helping research and diagnosis. Many researchers have proposed advanced networks to super-resolve OCT but all these methods are real-valued and they ignore the phase of OCT signal. Herein, inspired by complex-valued networks, we proposed the first deep-learning-based super-resolution approach using both amplitude and phase of OCT signal to reconstruct OCT images. The introduction of phase achieves better performance than a network of the same structure without phase introduction.
 \[\left[ \begin{matrix}
