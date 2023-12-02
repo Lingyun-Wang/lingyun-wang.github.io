@@ -9,4 +9,4 @@ location: "San Francisco, CA, US"
 ---
 
 I received Travel Grant for SPIE Photonics West 2024 for my conference paper "Axial super-resolution optical coherence tomography imaging by complex-valued enhanced deep residual network" from SPIE and MKS Instruments, Inc. Thanks for their kind support!  
-![UPittLogo](http://Lingyun-Wang.github.io/images/News7Img1.jpg)
+![LOGO](http://Lingyun-Wang.github.io/images/News7Img1.jpg)
