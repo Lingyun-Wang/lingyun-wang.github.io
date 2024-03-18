@@ -12,18 +12,10 @@ Education
 * B.S. in Telecommunication Engineering, Soochow University, 2019-2023
 * PhD in Biomedical Engineering, University of Pittsburgh & UPMC, 2023-present
 
-Work experience
+Extramural Services
 -----
-* Summer 2021 - 2023: Research Assistant
-  * OIIT Lab, Soochow University
-  * Duties included: Conducting researches
-  * Supervisor: Prof. Jianhua Mo
-  
-Skills
------
-* Pytorch (Deep Learning)
-* Proficient in Matlab (Signal Processing)
-* Good at 2D / 3D computer graphics such as SolidWorks, AutoCAD
+* Peer-reviewed Journal Reviewer: Biomedical Optics Express, Measurement Science and Technology, Optical Engineering
+* Peer-reviewed Conference Reviewer: 2024 CVPR Workshop, 2024 CVIPPR, 2023 IEEE ICICN
 
 Publications
 -----
@@ -33,6 +25,7 @@ Publications
 
 Honor & Awards
 -----
+* 2024 SPIE Photonics West Travel Grant
 * Excellent Graduate of Soochow University
 * Soochow University Outstanding Learning Award
 * Grand Prize of Innovation and Entrepreneurship of Soochow University
