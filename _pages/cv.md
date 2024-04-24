@@ -14,8 +14,8 @@ Education
 
 Extramural Services
 -----
-* Peer-reviewed Journal Reviewer: Biomedical Optics Express, Measurement Science and Technology, Optical Engineering
-* Peer-reviewed Conference Reviewer: 2024 CVPR Workshop, 2024 CVIPPR, 2023 IEEE ICICN
+* Peer-reviewed Journal Reviewer: Biomedical Optics Express, Journal of Biomedical Optics, Measurement Science and Technology, Optical Engineering
+* Peer-reviewed Conference Reviewer: 2024 CVPR Workshop, 2024 IEEE MIPR, 2024 CVIPPR, 2023 IEEE ICICN
 
 Publications
 -----
