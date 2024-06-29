@@ -14,7 +14,7 @@ Education
 
 Extramural Services
 -----
-* Peer-reviewed Journal Reviewer: Information Science, Biomedical Optics Express, Journal of Biomedical Optics, Optics Communications, Applied Optics, Measurement Science and Technology, Optical Engineering
+* Peer-reviewed Journal Reviewer: Information Science, Biomedical Optics Express, Journal of Biomedical Optics, Optics Communications, Applied Optics, Scientific Reports, Measurement Science and Technology, Optical Engineering
 * Peer-reviewed Conference Reviewer: 2024 NeurIPS, 2024 CVPR Workshop, 2024 IEEE MIPR, 2024 CVIPPR, 2023 IEEE ICICN
 
 Publications
