@@ -25,6 +25,7 @@ Publications
 
 Honor & Awards
 -----
+* Graduate Student Researcher of The Year 2024-2025
 * 2025 ARVO Foundation Travel Grant
 * 2024 SPIE Photonics West Travel Grant
 * Excellent Graduate of Soochow University
