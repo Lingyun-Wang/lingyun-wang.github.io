@@ -14,7 +14,7 @@ Education
 
 Extramural Services
 -----
-* Peer-reviewed Journal Reviewer: Neural Networks, Information Science, Optics Express, Biomedical Optics Express, Journal of Physics D: Applied Physics, Journal of Biomedical Optics, Optics Communications, Applied Optics, Journal of the Optical Society of America A, Frontiers in Neuroscience, Scientific Reports, Measurement Science and Technology, Biomedical Physics & Engineering Express, New Journal of Physics, Journal of Electronic Imaging, Journal of Medical Imaging, Journal of Applied Remote Sensing, Optical Engineering
+* Peer-reviewed Journal Reviewer: Neural Networks, Information Science, ACM Transactions on Computing for Healthcare, Optics Express, Biomedical Optics Express, Journal of Physics D: Applied Physics, Journal of Biomedical Optics, Optics Communications, Applied Optics, Journal of the Optical Society of America A, Frontiers in Neuroscience, Scientific Reports, Measurement Science and Technology, Biomedical Physics & Engineering Express, New Journal of Physics, Journal of Electronic Imaging, Journal of Medical Imaging, Journal of Applied Remote Sensing, Optical Engineering
 * Peer-reviewed Conference Reviewer: 2025 CVPR Workshop, 2025 NeurIPS, 2025 ICML, 2025 ICLR, 2024 NeurIPS, 2024 CVPR Workshop, 2024 IEEE MIPR, 2024 IEEE IJCB, 2024 CVIPPR, 2023 IEEE ICICN
 
 Publications
